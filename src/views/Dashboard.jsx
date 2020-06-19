@@ -97,8 +97,7 @@ class Dashboard extends React.Component {
                 </CardBody>
                 <CardFooter>
                   <div className="stats">
-                    <i className="now-ui-icons arrows-1_refresh-69" /> Just
-                    Updated
+                    <i className="now-ui-icons arrows-1_refresh-69" />
                   </div>
                 </CardFooter>
               </Card>
@@ -135,8 +134,7 @@ class Dashboard extends React.Component {
                 </CardBody>
                 <CardFooter>
                   <div className="stats">
-                    <i className="now-ui-icons arrows-1_refresh-69" /> Just
-                    Updated
+                    <i className="now-ui-icons arrows-1_refresh-69" />
                   </div>
                 </CardFooter>
               </Card>
@@ -157,7 +155,7 @@ class Dashboard extends React.Component {
                 </CardBody>
                 <CardFooter>
                   <div className="stats">
-                    <i className="now-ui-icons ui-2_time-alarm" /> Last 7 days
+                    <i className="now-ui-icons ui-2_time-alarm" />
                   </div>
                 </CardFooter>
               </Card>
