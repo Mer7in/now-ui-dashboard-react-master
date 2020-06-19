@@ -169,7 +169,7 @@ const dashboardPanelChart = {
       labels: affectation,
       datasets: [
         {
-          label: "Data",
+          label: "Affectation",
           borderColor: chartColor,
           pointBorderColor: chartColor,
           pointBackgroundColor: "#2c2c2c",
